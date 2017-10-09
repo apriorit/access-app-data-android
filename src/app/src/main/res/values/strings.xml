@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessibilityDataMonitoring</string>
+    <string name="acessibility_description">This is our accessibility service ;)</string>
+    <string name="clear_urls">Clear Firefox urls</string>
+    <string name="check_logs">Also check logcat with \"MONITORING\" tag&#8230;</string>
+    <string name="accessibility_label">petrov_accessibility_sniffer</string>
+</resources>
