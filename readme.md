@@ -2,7 +2,9 @@
 
 ## About
 
-By default all Android apps save data in a so-called Sandbox – a storage area which other applications cannot access. This project provides a simple way to access private data of third-party applications without root permissions. 
+By default all Android apps save data in a so-called Sandbox â€“ a storage area which other applications cannot access. This project provides a simple way to access private data of third-party applications without root permissions. 
+
+WARNING: Android security policy directly states that access to private data can be illegal, which puts certain limitations on gathering such data, including the possibility of being prosecuted by law. Therefore, use this method to obtain data consciously and thoughtfully and make sure that you abide by laws and respect privacy of others.
 
 ## Implementation
 
@@ -14,4 +16,4 @@ For detailed implementation notes and code details, please review the [related a
 
 ## License
 
-Licensed under the MIT license. © Apriorit.
+Licensed under the MIT license. Â© Apriorit.
