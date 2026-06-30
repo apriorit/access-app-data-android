@@ -14,6 +14,16 @@ This solution works well starting with Android 4.3 and older (including Android 
 
 For detailed implementation notes and code details, please review the [related article](https://www.apriorit.com/dev-blog/429-access-app-data-on-android-no-root).
 
+## About Apriorit
+
+This repository is a public technical example from Apriorit related to mobile and advanced software engineering.
+
+Apriorit is a cybersecurity-focused software engineering company that helps technology companies build secure, reliable, and high-performance software — from kernel-level components to cloud-based platforms.
+
+Learn more: https://www.apriorit.com/our-expertise/mobile-development
+
+Website: https://www.apriorit.com
+
 ## License
 
 Licensed under the MIT license. © Apriorit.
